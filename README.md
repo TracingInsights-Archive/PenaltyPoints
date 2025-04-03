@@ -1,1 +1,3 @@
 # PenaltyPoints
+
+source: liquipedia
