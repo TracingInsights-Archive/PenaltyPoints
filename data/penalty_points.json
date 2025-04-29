@@ -60,24 +60,6 @@
     ]
   },
   {
-    "driver": "Fernando Alonso",
-    "totalPoints": 5,
-    "incidents": [
-      {
-        "points": 3,
-        "expiryDate": "April 20, 2025",
-        "grandPrix": "2024 Chinese Grand Prix",
-        "reason": "Causing a collision with Carlos Sainz (Sprint)"
-      },
-      {
-        "points": 2,
-        "expiryDate": "June 30, 2025",
-        "grandPrix": "2024 Austrian Grand Prix",
-        "reason": "Causing a collision with Zhou Guanyu"
-      }
-    ]
-  },
-  {
     "driver": "Nico H\u00fclkenberg",
     "totalPoints": 4,
     "incidents": [
@@ -92,24 +74,6 @@
         "expiryDate": "September 1, 2025",
         "grandPrix": "2024 Italian Grand Prix",
         "reason": "Causing a collision with Yuki Tsunoda"
-      }
-    ]
-  },
-  {
-    "driver": "Lance Stroll",
-    "totalPoints": 4,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "April 21, 2025",
-        "grandPrix": "2024 Chinese Grand Prix",
-        "reason": "Causing a collision with Daniel Ricciardo"
-      },
-      {
-        "points": 2,
-        "expiryDate": "December 1, 2025",
-        "grandPrix": "2024 Qatar Grand Prix",
-        "reason": "Causing a collision with Alexander Albon"
       }
     ]
   },
@@ -194,6 +158,30 @@
         "expiryDate": "April 13, 2026",
         "grandPrix": "2025 Bahrain Grand Prix",
         "reason": "Forcing Andrea Kimi Antonelli off the track"
+      }
+    ]
+  },
+  {
+    "driver": "Fernando Alonso",
+    "totalPoints": 2,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "June 30, 2025",
+        "grandPrix": "2024 Austrian Grand Prix",
+        "reason": "Causing a collision with Zhou Guanyu"
+      }
+    ]
+  },
+  {
+    "driver": "Lance Stroll",
+    "totalPoints": 2,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "December 1, 2025",
+        "grandPrix": "2024 Qatar Grand Prix",
+        "reason": "Causing a collision with Alexander Albon"
       }
     ]
   },

@@ -8,15 +8,7 @@
     "points": 5
   },
   {
-    "name": "Fernando Alonso",
-    "points": 5
-  },
-  {
     "name": "Nico H\u00fclkenberg",
-    "points": 4
-  },
-  {
-    "name": "Lance Stroll",
     "points": 4
   },
   {
@@ -38,6 +30,14 @@
   {
     "name": "Carlos Sainz",
     "points": 3
+  },
+  {
+    "name": "Fernando Alonso",
+    "points": 2
+  },
+  {
+    "name": "Lance Stroll",
+    "points": 2
   },
   {
     "name": "Alexander Albon",
