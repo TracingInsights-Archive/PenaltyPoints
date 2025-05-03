@@ -37,7 +37,7 @@
   },
   {
     "driver": "Liam Lawson",
-    "totalPoints": 5,
+    "totalPoints": 6,
     "incidents": [
       {
         "points": 2,
@@ -56,6 +56,12 @@
         "expiryDate": "April 13, 2026",
         "grandPrix": "2025 Bahrain Grand Prix",
         "reason": "Causing a collision with Nico H\u00fclkenberg"
+      },
+      {
+        "points": 1,
+        "expiryDate": "May 3, 2026",
+        "grandPrix": "2025 Miami Grand Prix",
+        "reason": "Causing a collision with Fernando Alonso"
       }
     ]
   },
