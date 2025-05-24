@@ -132,6 +132,24 @@
     ]
   },
   {
+    "driver": "Lance Stroll",
+    "totalPoints": 3,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "December 1, 2025",
+        "grandPrix": "2024 Qatar Grand Prix",
+        "reason": "Causing a collision with Alexander Albon"
+      },
+      {
+        "points": 1,
+        "expiryDate": "May 23, 2026",
+        "grandPrix": "2025 Monaco Grand Prix",
+        "reason": "Causing a collision with Charles Leclerc"
+      }
+    ]
+  },
+  {
     "driver": "Esteban Ocon",
     "totalPoints": 2,
     "incidents": [
@@ -164,18 +182,6 @@
         "expiryDate": "October 27, 2025",
         "grandPrix": "2024 Mexico City Grand Prix",
         "reason": "Causing a collision with Liam Lawson"
-      }
-    ]
-  },
-  {
-    "driver": "Lance Stroll",
-    "totalPoints": 2,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "December 1, 2025",
-        "grandPrix": "2024 Qatar Grand Prix",
-        "reason": "Causing a collision with Alexander Albon"
       }
     ]
   },
