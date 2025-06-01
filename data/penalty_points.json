@@ -1,7 +1,7 @@
 [
   {
     "driver": "Max Verstappen",
-    "totalPoints": 8,
+    "totalPoints": 11,
     "incidents": [
       {
         "points": 2,
@@ -32,6 +32,12 @@
         "expiryDate": "December 8, 2025",
         "grandPrix": "2024 Abu Dhabi Grand Prix",
         "reason": "Causing a collision with Oscar Piastri"
+      },
+      {
+        "points": 3,
+        "expiryDate": "June 1, 2026",
+        "grandPrix": "2025 Spanish Grand Prix",
+        "reason": "Causing a collision with George Russell"
       }
     ]
   },
