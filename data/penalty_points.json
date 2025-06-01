@@ -156,18 +156,6 @@
     ]
   },
   {
-    "driver": "Esteban Ocon",
-    "totalPoints": 2,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "May 26, 2025",
-        "grandPrix": "2024 Monaco Grand Prix",
-        "reason": "Causing a collision with Pierre Gasly"
-      }
-    ]
-  },
-  {
     "driver": "Fernando Alonso",
     "totalPoints": 2,
     "incidents": [
