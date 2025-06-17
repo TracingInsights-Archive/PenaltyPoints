@@ -72,6 +72,30 @@
     ]
   },
   {
+    "driver": "Lance Stroll",
+    "totalPoints": 5,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "December 1, 2025",
+        "grandPrix": "2024 Qatar Grand Prix",
+        "reason": "Causing a collision with Alexander Albon"
+      },
+      {
+        "points": 1,
+        "expiryDate": "May 23, 2026",
+        "grandPrix": "2025 Monaco Grand Prix",
+        "reason": "Causing a collision with Charles Leclerc (FP1)"
+      },
+      {
+        "points": 2,
+        "expiryDate": "June 15, 2026",
+        "grandPrix": "2025 Canadian Grand Prix",
+        "reason": "Forcing Pierre Gasly off the track"
+      }
+    ]
+  },
+  {
     "driver": "Nico H\u00fclkenberg",
     "totalPoints": 4,
     "incidents": [
@@ -134,24 +158,6 @@
         "expiryDate": "December 1, 2025",
         "grandPrix": "2024 Qatar Grand Prix",
         "reason": "Failing to slow under double waved yellow flags"
-      }
-    ]
-  },
-  {
-    "driver": "Lance Stroll",
-    "totalPoints": 3,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "December 1, 2025",
-        "grandPrix": "2024 Qatar Grand Prix",
-        "reason": "Causing a collision with Alexander Albon"
-      },
-      {
-        "points": 1,
-        "expiryDate": "May 23, 2026",
-        "grandPrix": "2025 Monaco Grand Prix",
-        "reason": "Causing a collision with Charles Leclerc (FP1)"
       }
     ]
   },
