@@ -1,14 +1,8 @@
 [
   {
     "driver": "Max Verstappen",
-    "totalPoints": 11,
+    "totalPoints": 9,
     "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "June 30, 2025",
-        "grandPrix": "2024 Austrian Grand Prix",
-        "reason": "Causing a collision with Lando Norris"
-      },
       {
         "points": 2,
         "expiryDate": "October 27, 2025",
@@ -162,26 +156,20 @@
     ]
   },
   {
-    "driver": "Fernando Alonso",
-    "totalPoints": 2,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "June 30, 2025",
-        "grandPrix": "2024 Austrian Grand Prix",
-        "reason": "Causing a collision with Zhou Guanyu"
-      }
-    ]
-  },
-  {
     "driver": "Franco Colapinto",
-    "totalPoints": 2,
+    "totalPoints": 3,
     "incidents": [
       {
         "points": 2,
         "expiryDate": "October 27, 2025",
         "grandPrix": "2024 Mexico City Grand Prix",
         "reason": "Causing a collision with Liam Lawson"
+      },
+      {
+        "points": 1,
+        "expiryDate": "June 29, 2026",
+        "grandPrix": "2025 Austrian Grand Prix",
+        "reason": "Forcing Oscar Piastri off the track"
       }
     ]
   },
