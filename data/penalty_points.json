@@ -90,19 +90,6 @@
     ]
   },
   {
-    "driver": "Nico H\u00fclkenberg",
-    "totalPoints": 2,
-    "incidents": [
-      
-      {
-        "points": 2,
-        "expiryDate": "September 1, 2025",
-        "grandPrix": "2024 Italian Grand Prix",
-        "reason": "Causing a collision with Yuki Tsunoda"
-      }
-    ]
-  },
-  {
     "driver": "Oscar Piastri",
     "totalPoints": 4,
     "incidents": [
@@ -139,6 +126,24 @@
     ]
   },
   {
+    "driver": "Yuki Tsunoda",
+    "totalPoints": 4,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "June 14, 2026",
+        "grandPrix": "2025 Canadian Grand Prix",
+        "reason": "Overtaking Oscar Piastri during red flag conditions (FP3)"
+      },
+      {
+        "points": 2,
+        "expiryDate": "June 29, 2026",
+        "grandPrix": "2025 Austrian Grand Prix",
+        "reason": "Causing a collision with Franco Colapinto"
+      }
+    ]
+  },
+  {
     "driver": "Lando Norris",
     "totalPoints": 3,
     "incidents": [
@@ -169,14 +174,14 @@
     ]
   },
   {
-    "driver": "Kimi Antonelli",
+    "driver": "Nico H\u00fclkenberg",
     "totalPoints": 2,
     "incidents": [
       {
         "points": 2,
-        "expiryDate": "June 29, 2026",
-        "grandPrix": "2025 Austrian Grand Prix",
-        "reason": "Causing a collision with Max Verstappen"
+        "expiryDate": "September 1, 2025",
+        "grandPrix": "2024 Italian Grand Prix",
+        "reason": "Causing a collision with Yuki Tsunoda"
       }
     ]
   },
@@ -205,14 +210,14 @@
     ]
   },
   {
-    "driver": "Yuki Tsunoda",
+    "driver": "Andrea Kimi Antonelli",
     "totalPoints": 2,
     "incidents": [
       {
         "points": 2,
-        "expiryDate": "June 14, 2026",
-        "grandPrix": "2025 Canadian Grand Prix",
-        "reason": "Overtaking Oscar Piastri during red flag conditions (FP3)"
+        "expiryDate": "June 29, 2026",
+        "grandPrix": "2025 Austrian Grand Prix",
+        "reason": "Causing a collision with Max Verstappen"
       }
     ]
   },
