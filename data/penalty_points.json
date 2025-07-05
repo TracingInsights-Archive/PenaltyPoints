@@ -36,6 +36,30 @@
     ]
   },
   {
+    "driver": "Oliver Bearman",
+    "totalPoints": 8,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "November 3, 2025",
+        "grandPrix": "2024 S\u00e3o Paulo Grand Prix",
+        "reason": "Causing a collision with Franco Colapinto"
+      },
+      {
+        "points": 2,
+        "expiryDate": "May 23, 2026",
+        "grandPrix": "2025 Monaco Grand Prix",
+        "reason": "Overtaking Carlos Sainz during red flag conditions (FP2)"
+      },
+      {
+        "points": 4,
+        "expiryDate": "July 5, 2026",
+        "grandPrix": "2025 British Grand Prix",
+        "reason": "Failure to comply with a red flag (FP3)"
+      }
+    ]
+  },
+  {
     "driver": "Liam Lawson",
     "totalPoints": 6,
     "incidents": [
@@ -104,24 +128,6 @@
         "expiryDate": "December 8, 2025",
         "grandPrix": "2024 Abu Dhabi Grand Prix",
         "reason": "Causing a collision with Franco Colapinto"
-      }
-    ]
-  },
-  {
-    "driver": "Oliver Bearman",
-    "totalPoints": 4,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "November 3, 2025",
-        "grandPrix": "2024 S\u00e3o Paulo Grand Prix",
-        "reason": "Causing a collision with Franco Colapinto"
-      },
-      {
-        "points": 2,
-        "expiryDate": "May 23, 2026",
-        "grandPrix": "2025 Monaco Grand Prix",
-        "reason": "Overtaking Carlos Sainz during red flag conditions (FP2)"
       }
     ]
   },
