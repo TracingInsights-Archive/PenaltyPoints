@@ -60,6 +60,30 @@
     ]
   },
   {
+    "driver": "Oscar Piastri",
+    "totalPoints": 6,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "November 3, 2025",
+        "grandPrix": "2024 S\u00e3o Paulo Grand Prix",
+        "reason": "Causing a collision with Liam Lawson"
+      },
+      {
+        "points": 2,
+        "expiryDate": "December 8, 2025",
+        "grandPrix": "2024 Abu Dhabi Grand Prix",
+        "reason": "Causing a collision with Franco Colapinto"
+      },
+      {
+        "points": 2,
+        "expiryDate": "July 6, 2026",
+        "grandPrix": "2025 British Grand Prix",
+        "reason": "Erratic braking on the straight when the Safety Car lights were extinguished"
+      }
+    ]
+  },
+  {
     "driver": "Liam Lawson",
     "totalPoints": 6,
     "incidents": [
@@ -90,6 +114,30 @@
     ]
   },
   {
+    "driver": "Yuki Tsunoda",
+    "totalPoints": 5,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "June 14, 2026",
+        "grandPrix": "2025 Canadian Grand Prix",
+        "reason": "Overtaking Oscar Piastri during red flag conditions (FP3)"
+      },
+      {
+        "points": 2,
+        "expiryDate": "June 29, 2026",
+        "grandPrix": "2025 Austrian Grand Prix",
+        "reason": "Causing a collision with Franco Colapinto"
+      },
+      {
+        "points": 1,
+        "expiryDate": "July 6, 2026",
+        "grandPrix": "2025 British Grand Prix",
+        "reason": "Causing a collision with Oliver Bearman"
+      }
+    ]
+  },
+  {
     "driver": "Lance Stroll",
     "totalPoints": 5,
     "incidents": [
@@ -110,42 +158,6 @@
         "expiryDate": "June 15, 2026",
         "grandPrix": "2025 Canadian Grand Prix",
         "reason": "Forcing Pierre Gasly off the track"
-      }
-    ]
-  },
-  {
-    "driver": "Oscar Piastri",
-    "totalPoints": 4,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "November 3, 2025",
-        "grandPrix": "2024 S\u00e3o Paulo Grand Prix",
-        "reason": "Causing a collision with Liam Lawson"
-      },
-      {
-        "points": 2,
-        "expiryDate": "December 8, 2025",
-        "grandPrix": "2024 Abu Dhabi Grand Prix",
-        "reason": "Causing a collision with Franco Colapinto"
-      }
-    ]
-  },
-  {
-    "driver": "Yuki Tsunoda",
-    "totalPoints": 4,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "June 14, 2026",
-        "grandPrix": "2025 Canadian Grand Prix",
-        "reason": "Overtaking Oscar Piastri during red flag conditions (FP3)"
-      },
-      {
-        "points": 2,
-        "expiryDate": "June 29, 2026",
-        "grandPrix": "2025 Austrian Grand Prix",
-        "reason": "Causing a collision with Franco Colapinto"
       }
     ]
   },
