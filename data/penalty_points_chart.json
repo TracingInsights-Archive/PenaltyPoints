@@ -24,6 +24,14 @@
     "points": 5
   },
   {
+    "name": "Carlos Sainz",
+    "points": 4
+  },
+  {
+    "name": "Andrea Kimi Antonelli",
+    "points": 4
+  },
+  {
     "name": "Lando Norris",
     "points": 3
   },
@@ -32,23 +40,23 @@
     "points": 3
   },
   {
-    "name": "Nico H\u00fclkenberg",
-    "points": 2
-  },
-  {
     "name": "Alexander Albon",
     "points": 2
   },
   {
-    "name": "Carlos Sainz",
+    "name": "Pierre Gasly",
     "points": 2
   },
   {
-    "name": "Andrea Kimi Antonelli",
+    "name": "Lewis Hamilton",
     "points": 2
   },
   {
     "name": "George Russell",
+    "points": 1
+  },
+  {
+    "name": "Charles Leclerc",
     "points": 1
   }
 ]

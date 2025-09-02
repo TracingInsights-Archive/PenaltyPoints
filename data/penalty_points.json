@@ -162,6 +162,42 @@
     ]
   },
   {
+    "driver": "Carlos Sainz",
+    "totalPoints": 4,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "April 13, 2026",
+        "grandPrix": "2025 Bahrain Grand Prix",
+        "reason": "Forcing Andrea Kimi Antonelli off the track"
+      },
+      {
+        "points": 2,
+        "expiryDate": "August 31, 2026",
+        "grandPrix": "2025 Dutch Grand Prix",
+        "reason": "Causing a collision with Liam Lawson"
+      }
+    ]
+  },
+  {
+    "driver": "Andrea Kimi Antonelli",
+    "totalPoints": 4,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "June 29, 2026",
+        "grandPrix": "2025 Austrian Grand Prix",
+        "reason": "Causing a collision with Max Verstappen"
+      },
+      {
+        "points": 2,
+        "expiryDate": "August 31, 2026",
+        "grandPrix": "2025 Dutch Grand Prix",
+        "reason": "Causing a collision with Charles Leclerc"
+      }
+    ]
+  },
+  {
     "driver": "Lando Norris",
     "totalPoints": 3,
     "incidents": [
@@ -192,18 +228,6 @@
     ]
   },
   {
-    "driver": "Nico H\u00fclkenberg",
-    "totalPoints": 2,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "September 1, 2025",
-        "grandPrix": "2024 Italian Grand Prix",
-        "reason": "Causing a collision with Yuki Tsunoda"
-      }
-    ]
-  },
-  {
     "driver": "Alexander Albon",
     "totalPoints": 2,
     "incidents": [
@@ -216,26 +240,26 @@
     ]
   },
   {
-    "driver": "Carlos Sainz",
+    "driver": "Pierre Gasly",
     "totalPoints": 2,
     "incidents": [
       {
         "points": 2,
-        "expiryDate": "April 13, 2026",
-        "grandPrix": "2025 Bahrain Grand Prix",
-        "reason": "Forcing Andrea Kimi Antonelli off the track"
+        "expiryDate": "August 3, 2026",
+        "grandPrix": "2025 Hungarian Grand Prix",
+        "reason": "Causing a collision with Carlos Sainz"
       }
     ]
   },
   {
-    "driver": "Andrea Kimi Antonelli",
+    "driver": "Lewis Hamilton",
     "totalPoints": 2,
     "incidents": [
       {
         "points": 2,
-        "expiryDate": "June 29, 2026",
-        "grandPrix": "2025 Austrian Grand Prix",
-        "reason": "Causing a collision with Max Verstappen"
+        "expiryDate": "August 31, 2026",
+        "grandPrix": "2025 Dutch Grand Prix",
+        "reason": "Failing to slow under yellow flags"
       }
     ]
   },
@@ -248,6 +272,18 @@
         "expiryDate": "December 1, 2025",
         "grandPrix": "2024 Qatar Grand Prix",
         "reason": "Failing to maintain a 10 car-length distance behind the Safety Car"
+      }
+    ]
+  },
+  {
+    "driver": "Charles Leclerc",
+    "totalPoints": 1,
+    "incidents": [
+      {
+        "points": 1,
+        "expiryDate": "August 3, 2026",
+        "grandPrix": "2025 Hungarian Grand Prix",
+        "reason": "Erratic Driving"
       }
     ]
   }
