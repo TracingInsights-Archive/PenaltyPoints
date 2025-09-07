@@ -1,5 +1,35 @@
 [
   {
+    "driver": "Oliver Bearman",
+    "totalPoints": 10,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "November 3, 2025",
+        "grandPrix": "2024 S\u00e3o Paulo Grand Prix",
+        "reason": "Causing a collision with Franco Colapinto"
+      },
+      {
+        "points": 2,
+        "expiryDate": "May 23, 2026",
+        "grandPrix": "2025 Monaco Grand Prix",
+        "reason": "Overtaking Carlos Sainz during red flag conditions (FP2)"
+      },
+      {
+        "points": 4,
+        "expiryDate": "July 5, 2026",
+        "grandPrix": "2025 British Grand Prix",
+        "reason": "Failure to comply with a red flag (FP3)"
+      },
+      {
+        "points": 2,
+        "expiryDate": "September 7, 2025",
+        "grandPrix": "2025 Italian Grand Prix",
+        "reason": "Causing a collision with Carlos Sainz"
+      }
+    ]
+  },
+  {
     "driver": "Max Verstappen",
     "totalPoints": 9,
     "incidents": [
@@ -32,30 +62,6 @@
         "expiryDate": "June 1, 2026",
         "grandPrix": "2025 Spanish Grand Prix",
         "reason": "Causing a collision with George Russell"
-      }
-    ]
-  },
-  {
-    "driver": "Oliver Bearman",
-    "totalPoints": 8,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "November 3, 2025",
-        "grandPrix": "2024 S\u00e3o Paulo Grand Prix",
-        "reason": "Causing a collision with Franco Colapinto"
-      },
-      {
-        "points": 2,
-        "expiryDate": "May 23, 2026",
-        "grandPrix": "2025 Monaco Grand Prix",
-        "reason": "Overtaking Carlos Sainz during red flag conditions (FP2)"
-      },
-      {
-        "points": 4,
-        "expiryDate": "July 5, 2026",
-        "grandPrix": "2025 British Grand Prix",
-        "reason": "Failure to comply with a red flag (FP3)"
       }
     ]
   },
@@ -162,6 +168,30 @@
     ]
   },
   {
+    "driver": "Andrea Kimi Antonelli",
+    "totalPoints": 5,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "June 29, 2026",
+        "grandPrix": "2025 Austrian Grand Prix",
+        "reason": "Causing a collision with Max Verstappen"
+      },
+      {
+        "points": 2,
+        "expiryDate": "August 31, 2026",
+        "grandPrix": "2025 Dutch Grand Prix",
+        "reason": "Causing a collision with Charles Leclerc"
+      },
+      {
+        "points": 1,
+        "expiryDate": "September 7, 2026",
+        "grandPrix": "2025 Italian Grand Prix",
+        "reason": "Erratic Driving"
+      }
+    ]
+  },
+  {
     "driver": "Carlos Sainz",
     "totalPoints": 4,
     "incidents": [
@@ -176,24 +206,6 @@
         "expiryDate": "August 31, 2026",
         "grandPrix": "2025 Dutch Grand Prix",
         "reason": "Causing a collision with Liam Lawson"
-      }
-    ]
-  },
-  {
-    "driver": "Andrea Kimi Antonelli",
-    "totalPoints": 4,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "June 29, 2026",
-        "grandPrix": "2025 Austrian Grand Prix",
-        "reason": "Causing a collision with Max Verstappen"
-      },
-      {
-        "points": 2,
-        "expiryDate": "August 31, 2026",
-        "grandPrix": "2025 Dutch Grand Prix",
-        "reason": "Causing a collision with Charles Leclerc"
       }
     ]
   },
@@ -284,6 +296,18 @@
         "expiryDate": "August 3, 2026",
         "grandPrix": "2025 Hungarian Grand Prix",
         "reason": "Erratic Driving"
+      }
+    ]
+  },
+  {
+    "driver": "Esteban Ocon",
+    "totalPoints": 1,
+    "incidents": [
+      {
+        "points": 1,
+        "expiryDate": "September 7, 2026",
+        "grandPrix": "2025 Italian Grand Prix",
+        "reason": "Forcing Lance Stroll off the track"
       }
     ]
   }

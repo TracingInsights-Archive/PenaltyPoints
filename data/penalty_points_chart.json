@@ -1,11 +1,11 @@
 [
   {
-    "name": "Max Verstappen",
-    "points": 9
+    "name": "Oliver Bearman",
+    "points": 10
   },
   {
-    "name": "Oliver Bearman",
-    "points": 8
+    "name": "Max Verstappen",
+    "points": 9
   },
   {
     "name": "Oscar Piastri",
@@ -24,11 +24,11 @@
     "points": 5
   },
   {
-    "name": "Carlos Sainz",
-    "points": 4
+    "name": "Andrea Kimi Antonelli",
+    "points": 5
   },
   {
-    "name": "Andrea Kimi Antonelli",
+    "name": "Carlos Sainz",
     "points": 4
   },
   {
@@ -57,6 +57,10 @@
   },
   {
     "name": "Charles Leclerc",
+    "points": 1
+  },
+  {
+    "name": "Esteban Ocon",
     "points": 1
   }
 ]
