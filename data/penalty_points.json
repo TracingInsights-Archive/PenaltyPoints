@@ -23,7 +23,7 @@
       },
       {
         "points": 2,
-        "expiryDate": "September 7, 2025",
+        "expiryDate": "September 7, 2026",
         "grandPrix": "2025 Italian Grand Prix",
         "reason": "Causing a collision with Carlos Sainz"
       }
@@ -192,24 +192,6 @@
     ]
   },
   {
-    "driver": "Carlos Sainz",
-    "totalPoints": 4,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "April 13, 2026",
-        "grandPrix": "2025 Bahrain Grand Prix",
-        "reason": "Forcing Andrea Kimi Antonelli off the track"
-      },
-      {
-        "points": 2,
-        "expiryDate": "August 31, 2026",
-        "grandPrix": "2025 Dutch Grand Prix",
-        "reason": "Causing a collision with Liam Lawson"
-      }
-    ]
-  },
-  {
     "driver": "Lando Norris",
     "totalPoints": 3,
     "incidents": [
@@ -248,6 +230,18 @@
         "expiryDate": "December 1, 2025",
         "grandPrix": "2024 Qatar Grand Prix",
         "reason": "Causing a collision with Kevin Magnussen"
+      }
+    ]
+  },
+  {
+    "driver": "Carlos Sainz",
+    "totalPoints": 2,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "April 13, 2026",
+        "grandPrix": "2025 Bahrain Grand Prix",
+        "reason": "Forcing Andrea Kimi Antonelli off the track"
       }
     ]
   },
