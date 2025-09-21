@@ -192,6 +192,24 @@
     ]
   },
   {
+    "driver": "Alexander Albon",
+    "totalPoints": 4,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "December 1, 2025",
+        "grandPrix": "2024 Qatar Grand Prix",
+        "reason": "Causing a collision with Kevin Magnussen"
+      },
+      {
+        "points": 2,
+        "expiryDate": "September 21, 2026",
+        "grandPrix": "2025 Azerbaijan Grand Prix",
+        "reason": "Causing a collision with Franco Colapinto"
+      }
+    ]
+  },
+  {
     "driver": "Lando Norris",
     "totalPoints": 3,
     "incidents": [
@@ -218,18 +236,6 @@
         "expiryDate": "June 29, 2026",
         "grandPrix": "2025 Austrian Grand Prix",
         "reason": "Forcing Oscar Piastri off the track"
-      }
-    ]
-  },
-  {
-    "driver": "Alexander Albon",
-    "totalPoints": 2,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "December 1, 2025",
-        "grandPrix": "2024 Qatar Grand Prix",
-        "reason": "Causing a collision with Kevin Magnussen"
       }
     ]
   },
