@@ -66,6 +66,36 @@
     ]
   },
   {
+    "driver": "Lance Stroll",
+    "totalPoints": 7,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "December 1, 2025",
+        "grandPrix": "2024 Qatar Grand Prix",
+        "reason": "Causing a collision with Alexander Albon"
+      },
+      {
+        "points": 1,
+        "expiryDate": "May 23, 2026",
+        "grandPrix": "2025 Monaco Grand Prix",
+        "reason": "Causing a collision with Charles Leclerc (FP1)"
+      },
+      {
+        "points": 2,
+        "expiryDate": "June 15, 2026",
+        "grandPrix": "2025 Canadian Grand Prix",
+        "reason": "Forcing Pierre Gasly off the track"
+      },
+      {
+        "points": 2,
+        "expiryDate": "October 18, 2026",
+        "grandPrix": "2025 United States Grand Prix",
+        "reason": "Causing a collision with Esteban Ocon (Sprint)"
+      }
+    ]
+  },
+  {
     "driver": "Oscar Piastri",
     "totalPoints": 6,
     "incidents": [
@@ -140,30 +170,6 @@
         "expiryDate": "July 6, 2026",
         "grandPrix": "2025 British Grand Prix",
         "reason": "Causing a collision with Oliver Bearman"
-      }
-    ]
-  },
-  {
-    "driver": "Lance Stroll",
-    "totalPoints": 5,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "December 1, 2025",
-        "grandPrix": "2024 Qatar Grand Prix",
-        "reason": "Causing a collision with Alexander Albon"
-      },
-      {
-        "points": 1,
-        "expiryDate": "May 23, 2026",
-        "grandPrix": "2025 Monaco Grand Prix",
-        "reason": "Causing a collision with Charles Leclerc (FP1)"
-      },
-      {
-        "points": 2,
-        "expiryDate": "June 15, 2026",
-        "grandPrix": "2025 Canadian Grand Prix",
-        "reason": "Forcing Pierre Gasly off the track"
       }
     ]
   },
