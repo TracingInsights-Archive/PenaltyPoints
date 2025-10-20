@@ -115,7 +115,7 @@
         "points": 2,
         "expiryDate": "July 6, 2026",
         "grandPrix": "2025 British Grand Prix",
-        "reason": "Erratic braking on the straight when the Safety Car lights were extinguished"
+        "reason": "Erratic braking when the Safety Car lights were extinguished"
       }
     ]
   },
@@ -216,6 +216,24 @@
     ]
   },
   {
+    "driver": "Carlos Sainz",
+    "totalPoints": 4,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "April 13, 2026",
+        "grandPrix": "2025 Bahrain Grand Prix",
+        "reason": "Forcing Andrea Kimi Antonelli off the track"
+      },
+      {
+        "points": 2,
+        "expiryDate": "October 19, 2026",
+        "grandPrix": "2025 United States Grand Prix",
+        "reason": "Causing a collision with Andrea Kimi Antonelli"
+      }
+    ]
+  },
+  {
     "driver": "Lando Norris",
     "totalPoints": 3,
     "incidents": [
@@ -242,18 +260,6 @@
         "expiryDate": "June 29, 2026",
         "grandPrix": "2025 Austrian Grand Prix",
         "reason": "Forcing Oscar Piastri off the track"
-      }
-    ]
-  },
-  {
-    "driver": "Carlos Sainz",
-    "totalPoints": 2,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "April 13, 2026",
-        "grandPrix": "2025 Bahrain Grand Prix",
-        "reason": "Forcing Andrea Kimi Antonelli off the track"
       }
     ]
   },
@@ -301,7 +307,7 @@
         "points": 1,
         "expiryDate": "August 3, 2026",
         "grandPrix": "2025 Hungarian Grand Prix",
-        "reason": "Erratic Driving"
+        "reason": "Erratic driving"
       }
     ]
   },
