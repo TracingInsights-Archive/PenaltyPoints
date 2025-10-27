@@ -31,14 +31,8 @@
   },
   {
     "driver": "Max Verstappen",
-    "totalPoints": 9,
+    "totalPoints": 7,
     "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "October 27, 2025",
-        "grandPrix": "2024 Mexico City Grand Prix",
-        "reason": "Forcing Lando Norris off the track"
-      },
       {
         "points": 1,
         "expiryDate": "November 2, 2025",
@@ -246,24 +240,6 @@
     ]
   },
   {
-    "driver": "Franco Colapinto",
-    "totalPoints": 3,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "October 27, 2025",
-        "grandPrix": "2024 Mexico City Grand Prix",
-        "reason": "Causing a collision with Liam Lawson"
-      },
-      {
-        "points": 1,
-        "expiryDate": "June 29, 2026",
-        "grandPrix": "2025 Austrian Grand Prix",
-        "reason": "Forcing Oscar Piastri off the track"
-      }
-    ]
-  },
-  {
     "driver": "Pierre Gasly",
     "totalPoints": 2,
     "incidents": [
@@ -296,6 +272,18 @@
         "expiryDate": "December 1, 2025",
         "grandPrix": "2024 Qatar Grand Prix",
         "reason": "Failing to maintain a 10 car-length distance behind the Safety Car"
+      }
+    ]
+  },
+  {
+    "driver": "Franco Colapinto",
+    "totalPoints": 1,
+    "incidents": [
+      {
+        "points": 1,
+        "expiryDate": "June 29, 2026",
+        "grandPrix": "2025 Austrian Grand Prix",
+        "reason": "Forcing Oscar Piastri off the track"
       }
     ]
   },

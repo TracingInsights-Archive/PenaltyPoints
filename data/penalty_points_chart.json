@@ -5,7 +5,7 @@
   },
   {
     "name": "Max Verstappen",
-    "points": 9
+    "points": 7
   },
   {
     "name": "Lance Stroll",
@@ -40,10 +40,6 @@
     "points": 3
   },
   {
-    "name": "Franco Colapinto",
-    "points": 3
-  },
-  {
     "name": "Pierre Gasly",
     "points": 2
   },
@@ -53,6 +49,10 @@
   },
   {
     "name": "George Russell",
+    "points": 1
+  },
+  {
+    "name": "Franco Colapinto",
     "points": 1
   },
   {
