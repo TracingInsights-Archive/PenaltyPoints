@@ -4,35 +4,35 @@
     "points": 10
   },
   {
-    "name": "Max Verstappen",
-    "points": 7
-  },
-  {
     "name": "Lance Stroll",
     "points": 7
-  },
-  {
-    "name": "Oscar Piastri",
-    "points": 6
   },
   {
     "name": "Liam Lawson",
     "points": 6
   },
   {
-    "name": "Yuki Tsunoda",
-    "points": 5
+    "name": "Max Verstappen",
+    "points": 6
+  },
+  {
+    "name": "Oscar Piastri",
+    "points": 6
   },
   {
     "name": "Andrea Kimi Antonelli",
     "points": 5
   },
   {
-    "name": "Alexander Albon",
-    "points": 4
+    "name": "Yuki Tsunoda",
+    "points": 5
   },
   {
     "name": "Carlos Sainz",
+    "points": 4
+  },
+  {
+    "name": "Alexander Albon",
     "points": 4
   },
   {
@@ -40,19 +40,15 @@
     "points": 3
   },
   {
-    "name": "Pierre Gasly",
-    "points": 2
-  },
-  {
     "name": "Lewis Hamilton",
     "points": 2
   },
   {
-    "name": "George Russell",
-    "points": 1
+    "name": "Pierre Gasly",
+    "points": 2
   },
   {
-    "name": "Franco Colapinto",
+    "name": "Esteban Ocon",
     "points": 1
   },
   {
@@ -60,7 +56,11 @@
     "points": 1
   },
   {
-    "name": "Esteban Ocon",
+    "name": "Franco Colapinto",
+    "points": 1
+  },
+  {
+    "name": "George Russell",
     "points": 1
   }
 ]
