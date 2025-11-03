@@ -1,7 +1,7 @@
 [
   {
     "name": "Oliver Bearman",
-    "points": 10
+    "points": 8
   },
   {
     "name": "Lance Stroll",
@@ -16,10 +16,6 @@
     "points": 6
   },
   {
-    "name": "Oscar Piastri",
-    "points": 6
-  },
-  {
     "name": "Andrea Kimi Antonelli",
     "points": 5
   },
@@ -29,6 +25,10 @@
   },
   {
     "name": "Carlos Sainz",
+    "points": 4
+  },
+  {
+    "name": "Oscar Piastri",
     "points": 4
   },
   {
