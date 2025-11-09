@@ -4,7 +4,7 @@
     "points": 9
   },
   {
-    "name": "Lance Stroll",
+    "name": "Yuki Tsunoda",
     "points": 7
   },
   {
@@ -12,15 +12,19 @@
     "points": 7
   },
   {
+    "name": "Lance Stroll",
+    "points": 7
+  },
+  {
+    "name": "Oscar Piastri",
+    "points": 6
+  },
+  {
     "name": "Max Verstappen",
     "points": 6
   },
   {
-    "name": "Andrea Kimi Antonelli",
-    "points": 5
-  },
-  {
-    "name": "Yuki Tsunoda",
+    "name": "Kimi Antonelli",
     "points": 5
   },
   {
@@ -28,20 +32,16 @@
     "points": 4
   },
   {
-    "name": "Oscar Piastri",
-    "points": 4
-  },
-  {
     "name": "Alexander Albon",
     "points": 4
   },
   {
-    "name": "Lando Norris",
+    "name": "Lewis Hamilton",
     "points": 3
   },
   {
-    "name": "Lewis Hamilton",
-    "points": 2
+    "name": "Lando Norris",
+    "points": 3
   },
   {
     "name": "Pierre Gasly",
