@@ -198,6 +198,30 @@
     ]
   },
   {
+    "driver": "Alexander Albon",
+    "totalPoints": 5,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "December 1, 2025",
+        "grandPrix": "2024 Qatar Grand Prix",
+        "reason": "Causing a collision with Kevin Magnussen"
+      },
+      {
+        "points": 2,
+        "expiryDate": "September 21, 2026",
+        "grandPrix": "2025 Azerbaijan Grand Prix",
+        "reason": "Causing a collision with Franco Colapinto"
+      },
+      {
+        "points": 1,
+        "expiryDate": "November 22, 2026",
+        "grandPrix": "2025 Las Vegas Grand Prix",
+        "reason": "Collision with Lewis Hamilton"
+      }
+    ]
+  },
+  {
     "driver": "Carlos Sainz",
     "totalPoints": 4,
     "incidents": [
@@ -212,24 +236,6 @@
         "expiryDate": "October 19, 2026",
         "grandPrix": "2025 United States Grand Prix",
         "reason": "Causing a collision with Kimi Antonelli"
-      }
-    ]
-  },
-  {
-    "driver": "Alexander Albon",
-    "totalPoints": 4,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "December 1, 2025",
-        "grandPrix": "2024 Qatar Grand Prix",
-        "reason": "Causing a collision with Kevin Magnussen"
-      },
-      {
-        "points": 2,
-        "expiryDate": "September 21, 2026",
-        "grandPrix": "2025 Azerbaijan Grand Prix",
-        "reason": "Causing a collision with Franco Colapinto"
       }
     ]
   },
@@ -260,6 +266,18 @@
         "expiryDate": "December 1, 2025",
         "grandPrix": "2024 Qatar Grand Prix",
         "reason": "Failing to slow under double waved yellow flags"
+      }
+    ]
+  },
+  {
+    "driver": "Gabriel Bortoleto",
+    "totalPoints": 2,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "November 22, 2026",
+        "grandPrix": "2025 Las Vegas Grand Prix",
+        "reason": "Causing a collision with Lance Stroll"
       }
     ]
   },
