@@ -8,19 +8,7 @@
     "points": 7
   },
   {
-    "name": "Liam Lawson",
-    "points": 7
-  },
-  {
-    "name": "Lance Stroll",
-    "points": 7
-  },
-  {
     "name": "Oscar Piastri",
-    "points": 6
-  },
-  {
-    "name": "Max Verstappen",
     "points": 6
   },
   {
@@ -28,7 +16,15 @@
     "points": 5
   },
   {
-    "name": "Alexander Albon",
+    "name": "Lance Stroll",
+    "points": 5
+  },
+  {
+    "name": "Liam Lawson",
+    "points": 5
+  },
+  {
+    "name": "Max Verstappen",
     "points": 5
   },
   {
@@ -36,11 +32,11 @@
     "points": 4
   },
   {
-    "name": "Lewis Hamilton",
+    "name": "Alexander Albon",
     "points": 3
   },
   {
-    "name": "Lando Norris",
+    "name": "Lewis Hamilton",
     "points": 3
   },
   {
@@ -61,10 +57,6 @@
   },
   {
     "name": "Franco Colapinto",
-    "points": 1
-  },
-  {
-    "name": "George Russell",
     "points": 1
   }
 ]
