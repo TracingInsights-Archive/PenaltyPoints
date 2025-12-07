@@ -1,7 +1,7 @@
 [
   {
     "driver": "Oliver Bearman",
-    "totalPoints": 9,
+    "totalPoints": 10,
     "incidents": [
       {
         "points": 2,
@@ -26,12 +26,18 @@
         "expiryDate": "November 8, 2026",
         "grandPrix": "2025 S\u00e3o Paulo Grand Prix",
         "reason": "Driving in a manner deemed potentially dangerous (Sprint)"
+      },
+      {
+        "points": 1,
+        "expiryDate": "December 7, 2026",
+        "grandPrix": "2025 Abu Dhabi Grand Prix",
+        "reason": "More than one change of position while defending"
       }
     ]
   },
   {
     "driver": "Yuki Tsunoda",
-    "totalPoints": 7,
+    "totalPoints": 8,
     "incidents": [
       {
         "points": 2,
@@ -56,6 +62,12 @@
         "expiryDate": "November 9, 2026",
         "grandPrix": "2025 S\u00e3o Paulo Grand Prix",
         "reason": "Causing a collision with Lance Stroll"
+      },
+      {
+        "points": 1,
+        "expiryDate": "December 7, 2026",
+        "grandPrix": "2025 Abu Dhabi Grand Prix",
+        "reason": "More than one change of position while defending"
       }
     ]
   },
@@ -84,32 +96,8 @@
     ]
   },
   {
-    "driver": "Kimi Antonelli",
-    "totalPoints": 5,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "June 29, 2026",
-        "grandPrix": "2025 Austrian Grand Prix",
-        "reason": "Causing a collision with Max Verstappen"
-      },
-      {
-        "points": 2,
-        "expiryDate": "August 31, 2026",
-        "grandPrix": "2025 Dutch Grand Prix",
-        "reason": "Causing a collision with Charles Leclerc"
-      },
-      {
-        "points": 1,
-        "expiryDate": "September 7, 2026",
-        "grandPrix": "2025 Italian Grand Prix",
-        "reason": "Forcing Alexander Albon onto the grass"
-      }
-    ]
-  },
-  {
     "driver": "Lance Stroll",
-    "totalPoints": 5,
+    "totalPoints": 6,
     "incidents": [
       {
         "points": 1,
@@ -128,12 +116,18 @@
         "expiryDate": "October 18, 2026",
         "grandPrix": "2025 United States Grand Prix",
         "reason": "Causing a collision with Esteban Ocon (Sprint)"
+      },
+      {
+        "points": 1,
+        "expiryDate": "December 7, 2026",
+        "grandPrix": "2025 Abu Dhabi Grand Prix",
+        "reason": "More than one change of position while defending"
       }
     ]
   },
   {
     "driver": "Liam Lawson",
-    "totalPoints": 5,
+    "totalPoints": 6,
     "incidents": [
       {
         "points": 1,
@@ -158,6 +152,36 @@
         "expiryDate": "November 8, 2026",
         "grandPrix": "2025 S\u00e3o Paulo Grand Prix",
         "reason": "Causing a collision with Oliver Bearman (Sprint)"
+      },
+      {
+        "points": 1,
+        "expiryDate": "December 7, 2026",
+        "grandPrix": "2025 Abu Dhabi Grand Prix",
+        "reason": "Erratic Driving"
+      }
+    ]
+  },
+  {
+    "driver": "Kimi Antonelli",
+    "totalPoints": 5,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "June 29, 2026",
+        "grandPrix": "2025 Austrian Grand Prix",
+        "reason": "Causing a collision with Max Verstappen"
+      },
+      {
+        "points": 2,
+        "expiryDate": "August 31, 2026",
+        "grandPrix": "2025 Dutch Grand Prix",
+        "reason": "Causing a collision with Charles Leclerc"
+      },
+      {
+        "points": 1,
+        "expiryDate": "September 7, 2026",
+        "grandPrix": "2025 Italian Grand Prix",
+        "reason": "Forcing Alexander Albon onto the grass"
       }
     ]
   },
