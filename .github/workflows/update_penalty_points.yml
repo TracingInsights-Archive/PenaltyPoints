@@ -3,7 +3,7 @@ name: Update F1 Penalty Points
 on:
   schedule:
     
-    - cron: '*/60 * * * 0-1'
+    - cron: '0 */4 * * 0-1'
   workflow_dispatch:
     # Allow manual triggering
 
