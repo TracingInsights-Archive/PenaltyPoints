@@ -66,42 +66,6 @@
     ]
   },
   {
-    "driver": "Liam Lawson",
-    "totalPoints": 6,
-    "incidents": [
-      {
-        "points": 1,
-        "expiryDate": "April 13, 2026",
-        "grandPrix": "2025 Bahrain Grand Prix",
-        "reason": "Causing a collision with Lance Stroll"
-      },
-      {
-        "points": 2,
-        "expiryDate": "April 13, 2026",
-        "grandPrix": "2025 Bahrain Grand Prix",
-        "reason": "Causing a collision with Nico H\u00fclkenberg"
-      },
-      {
-        "points": 1,
-        "expiryDate": "May 3, 2026",
-        "grandPrix": "2025 Miami Grand Prix",
-        "reason": "Causing a collision with Fernando Alonso (Sprint)"
-      },
-      {
-        "points": 1,
-        "expiryDate": "November 8, 2026",
-        "grandPrix": "2025 S\u00e3o Paulo Grand Prix",
-        "reason": "Causing a collision with Oliver Bearman (Sprint)"
-      },
-      {
-        "points": 1,
-        "expiryDate": "December 7, 2026",
-        "grandPrix": "2025 Abu Dhabi Grand Prix",
-        "reason": "Erratic driving"
-      }
-    ]
-  },
-  {
     "driver": "Kimi Antonelli",
     "totalPoints": 5,
     "incidents": [
@@ -139,24 +103,6 @@
         "points": 2,
         "expiryDate": "November 9, 2026",
         "grandPrix": "2025 S\u00e3o Paulo Grand Prix",
-        "reason": "Causing a collision with Kimi Antonelli"
-      }
-    ]
-  },
-  {
-    "driver": "Carlos Sainz",
-    "totalPoints": 4,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "April 13, 2026",
-        "grandPrix": "2025 Bahrain Grand Prix",
-        "reason": "Forcing Kimi Antonelli off the track"
-      },
-      {
-        "points": 2,
-        "expiryDate": "October 19, 2026",
-        "grandPrix": "2025 United States Grand Prix",
         "reason": "Causing a collision with Kimi Antonelli"
       }
     ]
@@ -210,6 +156,30 @@
     ]
   },
   {
+    "driver": "Liam Lawson",
+    "totalPoints": 3,
+    "incidents": [
+      {
+        "points": 1,
+        "expiryDate": "May 3, 2026",
+        "grandPrix": "2025 Miami Grand Prix",
+        "reason": "Causing a collision with Fernando Alonso (Sprint)"
+      },
+      {
+        "points": 1,
+        "expiryDate": "November 8, 2026",
+        "grandPrix": "2025 S\u00e3o Paulo Grand Prix",
+        "reason": "Causing a collision with Oliver Bearman (Sprint)"
+      },
+      {
+        "points": 1,
+        "expiryDate": "December 7, 2026",
+        "grandPrix": "2025 Abu Dhabi Grand Prix",
+        "reason": "Erratic driving"
+      }
+    ]
+  },
+  {
     "driver": "Gabriel Bortoleto",
     "totalPoints": 2,
     "incidents": [
@@ -218,6 +188,18 @@
         "expiryDate": "November 22, 2026",
         "grandPrix": "2025 Las Vegas Grand Prix",
         "reason": "Causing a collision with Lance Stroll"
+      }
+    ]
+  },
+  {
+    "driver": "Carlos Sainz",
+    "totalPoints": 2,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "October 19, 2026",
+        "grandPrix": "2025 United States Grand Prix",
+        "reason": "Causing a collision with Kimi Antonelli"
       }
     ]
   },

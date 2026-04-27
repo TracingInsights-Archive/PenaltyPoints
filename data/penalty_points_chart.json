@@ -8,19 +8,11 @@
     "points": 6
   },
   {
-    "name": "Liam Lawson",
-    "points": 6
-  },
-  {
     "name": "Kimi Antonelli",
     "points": 5
   },
   {
     "name": "Oscar Piastri",
-    "points": 4
-  },
-  {
-    "name": "Carlos Sainz",
     "points": 4
   },
   {
@@ -36,7 +28,15 @@
     "points": 3
   },
   {
+    "name": "Liam Lawson",
+    "points": 3
+  },
+  {
     "name": "Gabriel Bortoleto",
+    "points": 2
+  },
+  {
+    "name": "Carlos Sainz",
     "points": 2
   },
   {
