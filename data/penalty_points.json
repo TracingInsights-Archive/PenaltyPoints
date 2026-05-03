@@ -156,15 +156,21 @@
     ]
   },
   {
-    "driver": "Liam Lawson",
-    "totalPoints": 3,
+    "driver": "Gabriel Bortoleto",
+    "totalPoints": 2,
     "incidents": [
       {
-        "points": 1,
-        "expiryDate": "May 3, 2026",
-        "grandPrix": "2025 Miami Grand Prix",
-        "reason": "Causing a collision with Fernando Alonso (Sprint)"
-      },
+        "points": 2,
+        "expiryDate": "November 22, 2026",
+        "grandPrix": "2025 Las Vegas Grand Prix",
+        "reason": "Causing a collision with Lance Stroll"
+      }
+    ]
+  },
+  {
+    "driver": "Liam Lawson",
+    "totalPoints": 2,
+    "incidents": [
       {
         "points": 1,
         "expiryDate": "November 8, 2026",
@@ -176,18 +182,6 @@
         "expiryDate": "December 7, 2026",
         "grandPrix": "2025 Abu Dhabi Grand Prix",
         "reason": "Erratic driving"
-      }
-    ]
-  },
-  {
-    "driver": "Gabriel Bortoleto",
-    "totalPoints": 2,
-    "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "November 22, 2026",
-        "grandPrix": "2025 Las Vegas Grand Prix",
-        "reason": "Causing a collision with Lance Stroll"
       }
     ]
   },
