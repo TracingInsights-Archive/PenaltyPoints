@@ -1,14 +1,8 @@
 [
   {
     "driver": "Oliver Bearman",
-    "totalPoints": 10,
+    "totalPoints": 8,
     "incidents": [
-      {
-        "points": 2,
-        "expiryDate": "May 23, 2026",
-        "grandPrix": "2025 Monaco Grand Prix",
-        "reason": "Overtaking Carlos Sainz during red flag conditions (FP2)"
-      },
       {
         "points": 4,
         "expiryDate": "July 5, 2026",
@@ -26,36 +20,6 @@
         "expiryDate": "November 8, 2026",
         "grandPrix": "2025 S\u00e3o Paulo Grand Prix",
         "reason": "Driving in a manner deemed potentially dangerous (Sprint)"
-      },
-      {
-        "points": 1,
-        "expiryDate": "December 7, 2026",
-        "grandPrix": "2025 Abu Dhabi Grand Prix",
-        "reason": "More than one change of position while defending"
-      }
-    ]
-  },
-  {
-    "driver": "Lance Stroll",
-    "totalPoints": 6,
-    "incidents": [
-      {
-        "points": 1,
-        "expiryDate": "May 23, 2026",
-        "grandPrix": "2025 Monaco Grand Prix",
-        "reason": "Causing a collision with Charles Leclerc (FP1)"
-      },
-      {
-        "points": 2,
-        "expiryDate": "June 15, 2026",
-        "grandPrix": "2025 Canadian Grand Prix",
-        "reason": "Forcing Pierre Gasly off the track"
-      },
-      {
-        "points": 2,
-        "expiryDate": "October 18, 2026",
-        "grandPrix": "2025 United States Grand Prix",
-        "reason": "Causing a collision with Esteban Ocon (Sprint)"
       },
       {
         "points": 1,
@@ -86,6 +50,30 @@
         "expiryDate": "September 7, 2026",
         "grandPrix": "2025 Italian Grand Prix",
         "reason": "Forcing Alexander Albon onto the grass"
+      }
+    ]
+  },
+  {
+    "driver": "Lance Stroll",
+    "totalPoints": 5,
+    "incidents": [
+      {
+        "points": 2,
+        "expiryDate": "June 15, 2026",
+        "grandPrix": "2025 Canadian Grand Prix",
+        "reason": "Forcing Pierre Gasly off the track"
+      },
+      {
+        "points": 2,
+        "expiryDate": "October 18, 2026",
+        "grandPrix": "2025 United States Grand Prix",
+        "reason": "Causing a collision with Esteban Ocon (Sprint)"
+      },
+      {
+        "points": 1,
+        "expiryDate": "December 7, 2026",
+        "grandPrix": "2025 Abu Dhabi Grand Prix",
+        "reason": "More than one change of position while defending"
       }
     ]
   },
