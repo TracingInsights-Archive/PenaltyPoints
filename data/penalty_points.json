@@ -132,18 +132,6 @@
     ]
   },
   {
-    "driver": "Max Verstappen",
-    "totalPoints": 3,
-    "incidents": [
-      {
-        "points": 3,
-        "expiryDate": "June 1, 2026",
-        "grandPrix": "2025 Spanish Grand Prix",
-        "reason": "Causing a collision with George Russell"
-      }
-    ]
-  },
-  {
     "driver": "Gabriel Bortoleto",
     "totalPoints": 2,
     "incidents": [
